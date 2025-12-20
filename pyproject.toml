@@ -14,7 +14,8 @@ dependencies = [
     "unstructured==0.17.2",
     "langchain-postgres",
     "langchain-text-splitters",
-    "langchain-ollama"
+    "langchain-ollama",
+    "beautifulsoup4>=4.14.3",
 ]
 
 [dependency-groups]
